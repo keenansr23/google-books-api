@@ -18,4 +18,4 @@ In the project directory, you can run:
  # Demo
  ![](googleBooksDemo.gif)
  
- Built in localhost. Uploaded in personal website.
+ Built in localhost. Deployed in Heroku.
